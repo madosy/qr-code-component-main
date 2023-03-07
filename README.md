@@ -12,17 +12,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
 ### Screenshot
 
-![](./images/screenshot-desktop.png)
-![](./images/screenshot-mobile.png)
+<img src="./images/screenshot-desktop.png" width="300px">
+<img src="./images/screenshot-mobile.png" height ="200px">
+
 
 ### Links
-- Live Site URL: [Add live site URL here](madosy.github.io/qr-code-component-main)
+- Live Site URL: [https://madosy.github.io/qr-code-component-main/](https://madosy.github.io/qr-code-component-main)
 
 ## My process
 
